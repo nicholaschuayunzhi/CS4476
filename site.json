@@ -2,6 +2,8 @@
   "baseUrl": "/CS4476",
   "titlePrefix": "",
   "ignore": [
+    ".git",
+    ".gitignore",
     "_markbind/logs/*",
     "_site/*",
     "site.json",
