@@ -4,7 +4,7 @@
 </frontmatter>
 
 <navbar placement="top" type="inverse">
-  <a slot="brand" href="/" title="Home" class="navbar-brand">Cave Street View</a>
+  <a slot="brand" href="{{baseUrl}}" title="Home" class="navbar-brand">Cave Street View</a>
   <dropdown text="Navigate" class="nav-link">
     <li><a href="#problem-statement" class="dropdown-item">Problem Statement</a></li>
     <li><a href="#approach" class="dropdown-item">Approach</a></li>
