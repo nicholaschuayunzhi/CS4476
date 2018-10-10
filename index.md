@@ -105,9 +105,9 @@ The major unknown with these experiments is whether or not the feature selection
 ---
 
 ## Members
-* Yong Ler Lee
-* Ashik Najib
-* James Gormley
-* Yun Zhi Nicholas Chua
-* Alexander Gretta
+* Yong Ler Lee, ylee725
+* Ashik Najib, anajib6
+* James Gormley, jgormley6
+* Yun Zhi Nicholas Chua, nchua3
+* Alexander Gretta, agretta3
 
