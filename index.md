@@ -105,9 +105,9 @@ The major unknown with these experiments is whether or not the feature selection
 ---
 
 ## Members
-* Yong Ler Lee: 903456639
-* Ashik Najib: 903217185
-* James Gormley: 903296494
-* Yun Zhi Nicholas Chua: 903457419
-* Alexander Gretta: 903179832
+* Yong Ler Lee
+* Ashik Najib
+* James Gormley
+* Yun Zhi Nicholas Chua
+* Alexander Gretta
 
