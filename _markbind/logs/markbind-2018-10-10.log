@@ -1,0 +1,384 @@
+2018-10-10T16:40:22.611Z - info: Website generation started at 12:40:22
+2018-10-10T16:40:22.645Z - info: Building assets...
+2018-10-10T16:40:22.650Z - info: Assets built
+2018-10-10T16:40:22.651Z - info: Generating pages...
+2018-10-10T16:40:22.799Z - info: Pages built
+2018-10-10T16:40:22.940Z - info: Site data built
+2018-10-10T16:40:22.941Z - info: Website generation complete! Total build time: 0.366s
+2018-10-10T16:40:22.966Z - info: Generate Site durationMs=392
+2018-10-10T16:40:22.978Z - info: Serving "C:\Users\Nicholas\Desktop\GATECH\CS4476\site\_site" at http://127.0.0.1:8080
+2018-10-10T16:40:22.978Z - info: Press CTRL+C to stop ...
+2018-10-10T16:40:42.815Z - info: [12:40:42] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:40:43.819Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:40:43.822Z - info: Rebuilding 1 pages
+2018-10-10T16:40:43.908Z - info: Pages rebuilt
+2018-10-10T16:40:43.923Z - info: Site data built
+2018-10-10T16:41:33.377Z - info: [12:41:33] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\site.json
+2018-10-10T16:41:34.382Z - info: Assets built
+2018-10-10T16:41:56.480Z - info: [12:41:56] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:41:57.483Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:41:57.485Z - info: Rebuilding 1 pages
+2018-10-10T16:41:57.529Z - info: Pages rebuilt
+2018-10-10T16:41:57.535Z - info: Site data built
+2018-10-10T16:42:07.384Z - info: [12:42:07] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:42:08.390Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:42:08.391Z - info: Rebuilding 1 pages
+2018-10-10T16:42:08.416Z - info: Pages rebuilt
+2018-10-10T16:42:08.421Z - info: Site data built
+2018-10-10T16:42:16.337Z - info: [12:42:16] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:42:17.339Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:42:17.344Z - info: Rebuilding 1 pages
+2018-10-10T16:42:17.382Z - info: Pages rebuilt
+2018-10-10T16:42:17.394Z - info: Site data built
+2018-10-10T16:42:24.169Z - info: [12:42:24] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:42:25.172Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:42:25.173Z - info: Rebuilding 1 pages
+2018-10-10T16:42:25.213Z - info: Pages rebuilt
+2018-10-10T16:42:25.220Z - info: Site data built
+2018-10-10T16:45:36.892Z - info: [12:45:36] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:45:37.894Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:45:37.896Z - info: Rebuilding 1 pages
+2018-10-10T16:45:37.919Z - info: Pages rebuilt
+2018-10-10T16:45:37.923Z - info: Site data built
+2018-10-10T16:47:16.792Z - info: [12:47:16] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:47:17.795Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:47:17.797Z - info: Rebuilding 1 pages
+2018-10-10T16:47:17.829Z - info: Pages rebuilt
+2018-10-10T16:47:17.834Z - info: Site data built
+2018-10-10T16:47:45.962Z - info: [12:47:45] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:47:46.965Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:47:46.968Z - info: Rebuilding 1 pages
+2018-10-10T16:47:46.994Z - info: Pages rebuilt
+2018-10-10T16:47:47.000Z - info: Site data built
+2018-10-10T16:48:14.290Z - info: [12:48:14] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:48:15.293Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:48:15.295Z - info: Rebuilding 1 pages
+2018-10-10T16:48:15.325Z - info: Pages rebuilt
+2018-10-10T16:48:15.330Z - info: Site data built
+2018-10-10T16:49:19.032Z - info: [12:49:19] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:49:20.035Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:49:20.037Z - info: Rebuilding 1 pages
+2018-10-10T16:49:20.063Z - info: Pages rebuilt
+2018-10-10T16:49:20.067Z - info: Site data built
+2018-10-10T16:49:40.756Z - info: [12:49:40] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:49:41.760Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:49:41.762Z - info: Rebuilding 1 pages
+2018-10-10T16:49:41.785Z - info: Pages rebuilt
+2018-10-10T16:49:41.788Z - info: Site data built
+2018-10-10T16:53:28.520Z - info: [12:53:28] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:53:29.522Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:53:29.525Z - info: Rebuilding 1 pages
+2018-10-10T16:53:29.571Z - info: Pages rebuilt
+2018-10-10T16:53:29.582Z - info: Site data built
+2018-10-10T16:54:13.968Z - info: [12:54:13] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:14.970Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:14.972Z - info: Rebuilding 1 pages
+2018-10-10T16:54:15.013Z - info: Pages rebuilt
+2018-10-10T16:54:15.021Z - info: Site data built
+2018-10-10T16:54:22.075Z - info: [12:54:22] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:23.078Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:23.080Z - info: Rebuilding 1 pages
+2018-10-10T16:54:23.116Z - info: Pages rebuilt
+2018-10-10T16:54:23.119Z - info: Site data built
+2018-10-10T16:54:29.645Z - info: [12:54:29] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:30.646Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:30.647Z - info: Rebuilding 1 pages
+2018-10-10T16:54:30.684Z - info: Pages rebuilt
+2018-10-10T16:54:30.689Z - info: Site data built
+2018-10-10T16:54:49.135Z - info: [12:54:49] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:50.138Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:54:50.139Z - info: Rebuilding 1 pages
+2018-10-10T16:54:50.169Z - info: Pages rebuilt
+2018-10-10T16:54:50.174Z - info: Site data built
+2018-10-10T16:55:25.353Z - info: [12:55:25] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:55:26.355Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:55:26.357Z - info: Rebuilding 1 pages
+2018-10-10T16:55:26.394Z - info: Pages rebuilt
+2018-10-10T16:55:26.399Z - info: Site data built
+2018-10-10T16:55:31.175Z - info: [12:55:31] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:55:32.177Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:55:32.178Z - info: Rebuilding 1 pages
+2018-10-10T16:55:32.208Z - info: Pages rebuilt
+2018-10-10T16:55:32.212Z - info: Site data built
+2018-10-10T16:55:46.769Z - info: [12:55:46] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:55:47.771Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:55:47.772Z - info: Rebuilding 1 pages
+2018-10-10T16:55:47.799Z - info: Pages rebuilt
+2018-10-10T16:55:47.804Z - info: Site data built
+2018-10-10T16:56:05.194Z - info: [12:56:05] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:56:06.198Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:56:06.199Z - info: Rebuilding 1 pages
+2018-10-10T16:56:06.229Z - info: Pages rebuilt
+2018-10-10T16:56:06.233Z - info: Site data built
+2018-10-10T16:56:25.074Z - info: [12:56:25] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:56:26.076Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:56:26.077Z - info: Rebuilding 1 pages
+2018-10-10T16:56:26.103Z - info: Pages rebuilt
+2018-10-10T16:56:26.108Z - info: Site data built
+2018-10-10T16:56:42.281Z - info: [12:56:42] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:56:43.284Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:56:43.286Z - info: Rebuilding 1 pages
+2018-10-10T16:56:43.310Z - info: Pages rebuilt
+2018-10-10T16:56:43.314Z - info: Site data built
+2018-10-10T16:57:01.334Z - info: [12:57:01] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:57:02.335Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:57:02.336Z - info: Rebuilding 1 pages
+2018-10-10T16:57:02.364Z - info: Pages rebuilt
+2018-10-10T16:57:02.369Z - info: Site data built
+2018-10-10T16:57:22.017Z - info: [12:57:22] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:57:23.018Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:57:23.020Z - info: Rebuilding 1 pages
+2018-10-10T16:57:23.051Z - info: Pages rebuilt
+2018-10-10T16:57:23.057Z - info: Site data built
+2018-10-10T16:58:25.926Z - info: [12:58:25] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:58:26.928Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T16:58:26.929Z - info: Rebuilding 1 pages
+2018-10-10T16:58:26.962Z - info: Pages rebuilt
+2018-10-10T16:58:26.965Z - info: Site data built
+2018-10-10T17:01:44.615Z - info: [13:01:44] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:01:45.621Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:01:45.623Z - info: Rebuilding 1 pages
+2018-10-10T17:01:45.672Z - info: Pages rebuilt
+2018-10-10T17:01:45.676Z - info: Site data built
+2018-10-10T17:01:57.588Z - info: [13:01:57] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:01:58.588Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:01:58.590Z - info: Rebuilding 1 pages
+2018-10-10T17:01:58.620Z - info: Pages rebuilt
+2018-10-10T17:01:58.626Z - info: Site data built
+2018-10-10T17:03:16.632Z - info: [13:03:16] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:03:17.635Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:03:17.637Z - info: Rebuilding 1 pages
+2018-10-10T17:03:17.672Z - info: Pages rebuilt
+2018-10-10T17:03:17.680Z - info: Site data built
+2018-10-10T17:03:57.713Z - info: [13:03:57] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:03:58.716Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:03:58.718Z - info: Rebuilding 1 pages
+2018-10-10T17:03:58.761Z - info: Pages rebuilt
+2018-10-10T17:03:58.766Z - info: Site data built
+2018-10-10T17:04:39.718Z - info: [13:04:39] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:04:40.722Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:04:40.723Z - info: Rebuilding 1 pages
+2018-10-10T17:04:40.755Z - info: Pages rebuilt
+2018-10-10T17:04:40.759Z - info: Site data built
+2018-10-10T17:04:54.345Z - info: [13:04:54] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:04:55.347Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:04:55.349Z - info: Rebuilding 1 pages
+2018-10-10T17:04:55.382Z - info: Pages rebuilt
+2018-10-10T17:04:55.387Z - info: Site data built
+2018-10-10T17:05:02.455Z - info: [13:05:02] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:05:03.458Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:05:03.459Z - info: Rebuilding 1 pages
+2018-10-10T17:05:03.487Z - info: Pages rebuilt
+2018-10-10T17:05:03.491Z - info: Site data built
+2018-10-10T17:07:50.603Z - info: [13:05:28] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:07:50.606Z - info: [13:07:50] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:07:51.604Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:07:51.606Z - info: Rebuilding 1 pages
+2018-10-10T17:07:51.636Z - info: Pages rebuilt
+2018-10-10T17:07:51.641Z - info: Site data built
+2018-10-10T17:08:09.840Z - info: [13:08:09] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:08:10.844Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:08:10.845Z - info: Rebuilding 1 pages
+2018-10-10T17:08:10.875Z - info: Pages rebuilt
+2018-10-10T17:08:10.879Z - info: Site data built
+2018-10-10T17:08:25.493Z - info: [13:08:25] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:08:26.496Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:08:26.498Z - info: Rebuilding 1 pages
+2018-10-10T17:08:26.532Z - info: Pages rebuilt
+2018-10-10T17:08:26.534Z - info: Site data built
+2018-10-10T17:09:07.864Z - info: [13:09:07] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:09:08.867Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:09:08.868Z - info: Rebuilding 1 pages
+2018-10-10T17:09:08.898Z - info: Pages rebuilt
+2018-10-10T17:09:08.901Z - info: Site data built
+2018-10-10T17:09:25.426Z - info: [13:09:25] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:09:26.429Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:09:26.430Z - info: Rebuilding 1 pages
+2018-10-10T17:09:26.476Z - info: Pages rebuilt
+2018-10-10T17:09:26.481Z - info: Site data built
+2018-10-10T17:10:02.902Z - info: [13:10:02] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:10:03.904Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:10:03.905Z - info: Rebuilding 1 pages
+2018-10-10T17:10:03.939Z - info: Pages rebuilt
+2018-10-10T17:10:03.942Z - info: Site data built
+2018-10-10T17:10:16.901Z - info: [13:10:16] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:10:17.904Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T17:10:17.906Z - info: Rebuilding 1 pages
+2018-10-10T17:10:17.939Z - info: Pages rebuilt
+2018-10-10T17:10:17.944Z - info: Site data built
+2018-10-10T14:11:03.946Z - info: [10:11:03] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:11:04.949Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:11:04.950Z - info: Rebuilding 1 pages
+2018-10-10T14:11:04.985Z - info: Pages rebuilt
+2018-10-10T14:11:04.988Z - info: Site data built
+2018-10-10T14:11:12.621Z - info: [10:11:12] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:11:13.622Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:11:13.623Z - info: Rebuilding 1 pages
+2018-10-10T14:11:13.651Z - info: Pages rebuilt
+2018-10-10T14:11:13.654Z - info: Site data built
+2018-10-10T14:11:58.818Z - info: [10:11:58] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:11:59.821Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:11:59.822Z - info: Rebuilding 1 pages
+2018-10-10T14:11:59.850Z - info: Pages rebuilt
+2018-10-10T14:11:59.854Z - info: Site data built
+2018-10-10T14:13:12.243Z - info: [10:13:12] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:13:13.246Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:13:13.248Z - info: Rebuilding 1 pages
+2018-10-10T14:13:13.280Z - info: Pages rebuilt
+2018-10-10T14:13:13.286Z - info: Site data built
+2018-10-10T14:13:28.695Z - info: [10:13:28] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:13:29.696Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:13:29.698Z - info: Rebuilding 1 pages
+2018-10-10T14:13:29.730Z - info: Pages rebuilt
+2018-10-10T14:13:29.735Z - info: Site data built
+2018-10-10T14:19:07.935Z - info: [10:19:07] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:19:08.937Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:19:08.942Z - info: Rebuilding 1 pages
+2018-10-10T14:19:08.977Z - info: Pages rebuilt
+2018-10-10T14:19:08.981Z - info: Site data built
+2018-10-10T14:22:08.983Z - info: [10:19:27] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:22:08.991Z - info: [10:22:08] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:22:09.986Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:22:09.987Z - info: Rebuilding 1 pages
+2018-10-10T14:22:10.019Z - info: Pages rebuilt
+2018-10-10T14:22:10.022Z - info: Site data built
+2018-10-10T14:23:54.743Z - info: [10:23:54] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:23:55.745Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:23:55.746Z - info: Rebuilding 1 pages
+2018-10-10T14:23:55.779Z - info: Pages rebuilt
+2018-10-10T14:23:55.784Z - info: Site data built
+2018-10-10T14:24:42.315Z - info: [10:24:42] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:24:43.318Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:24:43.320Z - info: Rebuilding 1 pages
+2018-10-10T14:24:43.351Z - info: Pages rebuilt
+2018-10-10T14:24:43.355Z - info: Site data built
+2018-10-10T14:25:26.124Z - info: [10:25:26] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:25:27.127Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:25:27.128Z - info: Rebuilding 1 pages
+2018-10-10T14:25:27.164Z - info: Pages rebuilt
+2018-10-10T14:25:27.172Z - info: Site data built
+2018-10-10T14:26:50.874Z - info: [10:26:50] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:26:51.878Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:26:51.879Z - info: Rebuilding 1 pages
+2018-10-10T14:26:51.928Z - info: Pages rebuilt
+2018-10-10T14:26:51.933Z - info: Site data built
+2018-10-10T14:27:03.163Z - info: [10:27:03] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:27:04.167Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:27:04.168Z - info: Rebuilding 1 pages
+2018-10-10T14:27:04.214Z - info: Pages rebuilt
+2018-10-10T14:27:04.222Z - info: Site data built
+2018-10-10T14:27:41.429Z - info: [10:27:41] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:27:42.433Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:27:42.435Z - info: Rebuilding 1 pages
+2018-10-10T14:27:42.469Z - info: Pages rebuilt
+2018-10-10T14:27:42.473Z - info: Site data built
+2018-10-10T14:28:06.211Z - info: [10:28:06] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:07.214Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:07.215Z - info: Rebuilding 1 pages
+2018-10-10T14:28:07.248Z - info: Pages rebuilt
+2018-10-10T14:28:07.252Z - info: Site data built
+2018-10-10T14:28:10.103Z - info: [10:28:10] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:11.105Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:11.106Z - info: Rebuilding 1 pages
+2018-10-10T14:28:11.136Z - info: Pages rebuilt
+2018-10-10T14:28:11.140Z - info: Site data built
+2018-10-10T14:28:40.061Z - info: [10:28:40] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:41.064Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:41.065Z - info: Rebuilding 1 pages
+2018-10-10T14:28:41.094Z - info: Pages rebuilt
+2018-10-10T14:28:41.099Z - info: Site data built
+2018-10-10T14:28:45.238Z - info: [10:28:45] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:46.240Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:46.241Z - info: Rebuilding 1 pages
+2018-10-10T14:28:46.269Z - info: Pages rebuilt
+2018-10-10T14:28:46.273Z - info: Site data built
+2018-10-10T14:28:58.101Z - info: [10:28:58] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:59.103Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:28:59.104Z - info: Rebuilding 1 pages
+2018-10-10T14:28:59.132Z - info: Pages rebuilt
+2018-10-10T14:28:59.136Z - info: Site data built
+2018-10-10T14:29:53.893Z - info: [10:29:53] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:29:54.894Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:29:54.895Z - info: Rebuilding 1 pages
+2018-10-10T14:29:54.926Z - info: Pages rebuilt
+2018-10-10T14:29:54.929Z - info: Site data built
+2018-10-10T14:30:14.968Z - info: [10:30:14] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:30:15.971Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:30:15.972Z - info: Rebuilding 1 pages
+2018-10-10T14:30:16.001Z - info: Pages rebuilt
+2018-10-10T14:30:16.004Z - info: Site data built
+2018-10-10T14:35:34.380Z - info: [10:35:34] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:35:35.382Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:35:35.384Z - info: Rebuilding 1 pages
+2018-10-10T14:35:35.423Z - info: Pages rebuilt
+2018-10-10T14:35:35.428Z - info: Site data built
+2018-10-10T14:36:01.231Z - info: [10:36:01] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:36:02.232Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:36:02.234Z - info: Rebuilding 1 pages
+2018-10-10T14:36:02.264Z - info: Pages rebuilt
+2018-10-10T14:36:02.267Z - info: Site data built
+2018-10-10T14:36:45.357Z - info: [10:36:45] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:36:46.360Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:36:46.362Z - info: Rebuilding 1 pages
+2018-10-10T14:36:46.394Z - info: Pages rebuilt
+2018-10-10T14:36:46.398Z - info: Site data built
+2018-10-10T14:40:49.214Z - info: [10:40:49] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:40:50.219Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:40:50.221Z - info: Rebuilding 1 pages
+2018-10-10T14:40:50.253Z - info: Pages rebuilt
+2018-10-10T14:40:50.257Z - info: Site data built
+2018-10-10T14:40:56.392Z - info: [10:40:56] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:40:57.393Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:40:57.394Z - info: Rebuilding 1 pages
+2018-10-10T14:40:57.425Z - info: Pages rebuilt
+2018-10-10T14:40:57.428Z - info: Site data built
+2018-10-10T14:41:12.682Z - info: [10:41:12] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:41:13.687Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:41:13.689Z - info: Rebuilding 1 pages
+2018-10-10T14:41:13.718Z - info: Pages rebuilt
+2018-10-10T14:41:13.723Z - info: Site data built
+2018-10-10T14:41:18.697Z - info: [10:41:18] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:41:19.697Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:41:19.698Z - info: Rebuilding 1 pages
+2018-10-10T14:41:19.728Z - info: Pages rebuilt
+2018-10-10T14:41:19.733Z - info: Site data built
+2018-10-10T14:42:31.369Z - info: [10:42:31] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:42:32.372Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:42:32.374Z - info: Rebuilding 1 pages
+2018-10-10T14:42:32.404Z - info: Pages rebuilt
+2018-10-10T14:42:32.409Z - info: Site data built
+2018-10-10T14:44:35.529Z - info: [10:44:35] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:44:36.532Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:44:36.534Z - info: Rebuilding 1 pages
+2018-10-10T14:44:36.564Z - info: Pages rebuilt
+2018-10-10T14:44:36.570Z - info: Site data built
+2018-10-10T14:46:04.238Z - info: [10:46:04] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:46:05.240Z - verbose: Rebuild affected paths: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\index.md
+2018-10-10T14:46:05.242Z - info: Rebuilding 1 pages
+2018-10-10T14:46:05.278Z - info: Pages rebuilt
+2018-10-10T14:46:05.286Z - info: Site data built
+2018-10-10T14:46:09.949Z - info: Website generation started at 10:46:09
+2018-10-10T14:46:09.976Z - info: Building assets...
+2018-10-10T14:46:09.981Z - info: Assets built
+2018-10-10T14:46:09.982Z - info: Generating pages...
+2018-10-10T14:46:10.115Z - info: Pages built
+2018-10-10T14:46:10.152Z - info: Site data built
+2018-10-10T14:46:10.152Z - info: Website generation complete! Total build time: 0.234s
+2018-10-10T14:46:10.173Z - info: Generate Site durationMs=255
+2018-10-10T14:46:10.182Z - info: Serving "C:\Users\Nicholas\Desktop\GATECH\CS4476\site\_site" at http://127.0.0.1:8080
+2018-10-10T14:46:10.183Z - info: Press CTRL+C to stop ...
+2018-10-10T14:46:21.437Z - info: [10:46:21] Reload for file change: C:\Users\Nicholas\Desktop\GATECH\CS4476\site\site.json
+2018-10-10T14:46:22.443Z - info: Assets built
+2018-10-10T14:52:18.631Z - error: Failed to read the site config file 'site.json' atC:\Users\Nicholas\Desktop\GATECH\CS4476\site:
+C:\Users\Nicholas\Desktop\GATECH\CS4476\site\site.json: Unexpected token V in JSON at position 1
+Please ensure the file exist or is valid
+2018-10-10T14:52:44.852Z - info: Website generation started at 10:52:44
+2018-10-10T14:52:44.886Z - info: Building assets...
+2018-10-10T14:52:44.946Z - info: Assets built
+2018-10-10T14:52:44.947Z - info: Generating pages...
+2018-10-10T14:52:45.085Z - info: Pages built
+2018-10-10T14:52:45.125Z - info: Site data built
+2018-10-10T14:52:45.126Z - info: Website generation complete! Total build time: 0.302s
+2018-10-10T14:52:45.147Z - info: Generate Site durationMs=324
+2018-10-10T14:52:45.156Z - info: Serving "C:\Users\Nicholas\Desktop\GATECH\CS4476\site\_site" at http://127.0.0.1:8080
+2018-10-10T14:52:45.157Z - info: Press CTRL+C to stop ...

@@ -1,0 +1,22 @@
+{
+  "baseUrl": "/CS4476",
+  "titlePrefix": "",
+  "ignore": [
+    "_markbind/logs/*",
+    "_site/*",
+    "site.json",
+    "*.md"
+  ],
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "Cave Street View"
+    },
+    {
+      "glob": "**/index.md"
+    }
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}
