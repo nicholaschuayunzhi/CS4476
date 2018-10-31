@@ -15,6 +15,14 @@
       "title": "Cave Street View"
     },
     {
+      "src": "proposal.md",
+      "title": "Proposal"
+    },
+    {
+      "src": "midterm.md",
+      "title": "Midterm Update"
+    },
+    {
       "glob": "**/index.md"
     }
   ],
