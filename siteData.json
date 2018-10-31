@@ -4,15 +4,6 @@
       "headings": {
         "cave-street-view": "Cave Street View",
         "problem-statement": "Problem Statement",
-        "approach": "Approach",
-        "general-process-pipeline": "General Process Pipeline",
-        "experiment-and-results": "Experiment and Results",
-        "dataset": "Dataset:",
-        "exploited-code": "Exploited Code:",
-        "implemented-code": "Implemented Code:",
-        "success-criteria": "Success Criteria:",
-        "experiments": "Experiments",
-        "experiment-results": "Experiment Results",
         "members": "Members"
       },
       "title": "Cave Street View",
