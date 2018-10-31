@@ -8,9 +8,8 @@
 # Midterm Update 10/31/2018
 Currently we have completed experiment 1 and made good progress on experiment 2 on **non-cave** images.
 
-<pic src="images/image0.jpg" width="300" alt="Logo"></pic>
-<pic src="images/image1.jpg" width="300" alt="Logo"></pic>
-<pic src="images/image2.jpg" width="300" alt="Logo"></pic>
+<pic src="images/14merge.png" width="600" alt="Logo">14 Images Panorama</pic>
+
 
 The initial set up uses a base stitcher class written in this [article](https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
 ). It uses *OpenCV* to implement basic feature matching and stitching for two images. It generates images as follows:
@@ -50,13 +49,17 @@ Here the focal length and CCD_width, the width of the camera sensor, are both in
 
 With this adjustment, we can minimize vertical distortion by a significant amount, resulting in a nicer stitch:
 <pic src="images/verticaldistort.png" width="400" alt="Logo">4 Images without Cylindrical Warp</pic>
-<pic src="images/longmerge.png" width="400" alt="Logo">4 Images with Cylindrical Warp</pic>
+<pic src="images/4merge.png" width="400" alt="Logo">4 Images with Cylindrical Warp</pic>
 
 Another important benefit of the warp is since the right end of the merged image is less warped, we are better able to find features and correspondences for additional images. Without the cylindrical warp, the algorithm could only go to 4 images. After the adjustment, we can go to 10 images before vertical errors show.
 
 <pic src="images/longermerge.png" width="800" alt="Logo">10 Images with Cylindrical Warp</pic>
 
 As can be seen from above, vertical errors still accumulate. We are currently experimenting with different ways on how we can reduce these errors. Things that we are trying include, merging small portions before doing a final merge, adjusting focal length as we merge more images.
+
+<pic src="images/image0.jpg" width="300" alt="Logo">Images 0 to 5</pic>
+<pic src="images/image1.jpg" width="300" alt="Logo">Images 6 to 11</pic>
+<pic src="images/image2.jpg" width="300" alt="Logo">Images 11 to 17</pic>
 
 ## Alpha Blending
 
