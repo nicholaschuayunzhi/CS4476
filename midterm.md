@@ -55,11 +55,17 @@ Another important benefit of the warp is since the right end of the merged image
 
 <pic src="images/longermerge.png" width="800" alt="Logo">10 Images with Cylindrical Warp</pic>
 
-As can be seen from above, vertical errors still accumulate. We are currently experimenting with different ways on how we can reduce these errors. Things that we are trying include, merging small portions before doing a final merge, adjusting focal length as we merge more images.
+As can be seen from above, vertical errors still accumulate. We are currently experimenting with different ways on how we can reduce these errors. Things that we are trying include
+
+* Merging small portions before doing a final merge:
 
 <pic src="images/image0.jpg" width="300" alt="Logo">Images 0 to 5</pic>
 <pic src="images/image1.jpg" width="300" alt="Logo">Images 6 to 11</pic>
 <pic src="images/image2.jpg" width="300" alt="Logo">Images 11 to 17</pic>
+
+* Adjusting focal length as we merge more images:
+<pic src="images/longermerge.png" width="600" alt="Logo">No adjustment to warp</pic>
+<pic src="images/11imagemergetuning.jpg" width="600" alt="Logo">Adjusting cylindrical warp as we merge more images</pic>
 
 ## Alpha Blending
 
