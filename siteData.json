@@ -18,6 +18,33 @@
       "title": "Cave Street View",
       "footer": "footer.md",
       "src": "index.md"
+    },
+    {
+      "headings": {
+        "approach": "Approach",
+        "general-process-pipeline": "General Process Pipeline",
+        "experiment-and-results": "Experiment and Results",
+        "dataset": "Dataset:",
+        "exploited-code": "Exploited Code:",
+        "implemented-code": "Implemented Code:",
+        "success-criteria": "Success Criteria:",
+        "experiments": "Experiments",
+        "experiment-results": "Experiment Results"
+      },
+      "title": "Proposal",
+      "footer": "footer.md",
+      "src": "proposal.md"
+    },
+    {
+      "headings": {
+        "midterm-update-10312018": "Midterm Update 10/31/2018",
+        "stitching-multiple-images": "Stitching Multiple Images",
+        "alpha-blending": "Alpha Blending",
+        "final-pipeline": "Final Pipeline"
+      },
+      "title": "Midterm Update",
+      "footer": "footer.md",
+      "src": "midterm.md"
     }
   ]
 }
