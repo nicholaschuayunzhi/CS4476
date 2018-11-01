@@ -29,9 +29,15 @@
     {
       "headings": {
         "midterm-update-10312018": "Midterm Update 10/31/2018",
-        "stitching-multiple-images": "Stitching Multiple Images",
+        "experiment-1": "Experiment 1",
         "alpha-blending": "Alpha Blending",
-        "final-pipeline": "Final Pipeline"
+        "experiment-2": "Experiment 2",
+        "stitching-multiple-images": "Stitching Multiple Images",
+        "conclusion": "Conclusion",
+        "current-pipeline": "Current Pipeline",
+        "deviations-from-proposal": "Deviations from proposal",
+        "future-work": "Future Work",
+        "references": "References"
       },
       "title": "Midterm Update",
       "footer": "footer.md",
