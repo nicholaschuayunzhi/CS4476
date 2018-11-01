@@ -22,7 +22,27 @@ The initial set up uses a base stitcher class written in this [article](https://
 ```
 We added support for stitching of multiple images and blending of the the images together.
 
-## Stitching Multiple Images
+# Experiment 1
+
+### Alpha Blending
+
+When stitching images together, it is common for consecutively taken images to have slightly different color distributions, which, when stitched together, leads to artifacts and line on the edges of the stitched images. We implemented alpha blending to rectify this issue. By using the expression:
+
+```
+final_Image =  α*warped_image + (1-α)*source_image
+```
+
+Where alpha is an array of the same size as the final image, containing values in [0 , 1], indicating where the overlap of the images are. By running a small gaussian filter over this image, we received an alpha like so:
+
+<pic src="images/filter.png" width="300" alt="Logo">Gaussian Filter on Alpha Map</pic>
+<pic src="images/badblend.png" width="300" alt="Logo">Without Alpha Blending</pic>
+<pic src="images/goodblend.png" width="300" alt="Logo">With Alpha Blending</pic>
+
+Where the edges of the image are the transitional values between 0 and 1. As these transitional values live around the edges of the stitched image, we receive a smooth transition from the colors of one image to another, with the pixels along the boundary being a linear combination of the source and warped image’s pixel values multiplied by the values of alpha and 1-alpha respectively. The main challenge with alpha blending is that sudden, large shifts in color/luminance between images are far more difficult to work with, needing a larger, smoother transition between 0 and 1 in alpha, while too large a transition can lead to ghosting artifacts. In our case, most of the images have very similar intensities, but a way to fix this is to have the transition between 0 and 1 be a function of the average intensity difference on either side of the stitched seam.
+
+## Experiment 2
+
+### Stitching Multiple Images
 At first we use a naiive stitching algorithm where we stitch the first two images, and use that output for the next stitch. This is done from left to right. However, this results in vertical distortion:
 
 <pic src="images/verticaldistort.png" width="400" alt="Logo">Vertical Distortion</pic>
@@ -67,24 +87,9 @@ As can be seen from above, vertical errors still accumulate. We are currently ex
 <pic src="images/longermerge.png" width="600" alt="Logo">No adjustment to warp</pic>
 <pic src="images/11imagemergetuning.jpg" width="600" alt="Logo">Adjusting cylindrical warp as we merge more images</pic>
 
-## Alpha Blending
-
-When stitching images together, it is common for consecutively taken images to have slightly different color distributions, which, when stitched together, leads to artifacts and line on the edges of the stitched images. We implemented alpha blending to rectify this issue. By using the expression:
-
-```
-final_Image =  α*warped_image + (1-α)*source_image
-```
-
-Where alpha is an array of the same size as the final image, containing values in [0 , 1], indicating where the overlap of the images are. By running a small gaussian filter over this image, we received an alpha like so:
-
-<pic src="images/filter.png" width="300" alt="Logo">Gaussian Filter on Alpha Map</pic>
-<pic src="images/badblend.png" width="300" alt="Logo">Without Alpha Blending</pic>
-<pic src="images/goodblend.png" width="300" alt="Logo">With Alpha Blending</pic>
-
-Where the edges of the image are the transitional values between 0 and 1. As these transitional values live around the edges of the stitched image, we receive a smooth transition from the colors of one image to another, with the pixels along the boundary being a linear combination of the source and warped image’s pixel values multiplied by the values of alpha and 1-alpha respectively. The main challenge with alpha blending is that sudden, large shifts in color/luminance between images are far more difficult to work with, needing a larger, smoother transition between 0 and 1 in alpha, while too large a transition can lead to ghosting artifacts. In our case, most of the images have very similar intensities, but a way to fix this is to have the transition between 0 and 1 be a function of the average intensity difference on either side of the stitched seam.
-
-## Final Pipeline
-With these updates, our final pipeline is a follows:
+## Conclusion
+### Current Pipeline
+With these updates, our pipeline is a follows:
 ```
 Apply cylindrical warp on first image
 stitch image = first image
@@ -97,3 +102,16 @@ for image in subsequent images
   6. Do alpha blending between current image and image
   7. Set stitch image = merged image
 ```
+### Deviations from proposal
+Currently we are working on non-cave images. We will have access to cave photos in November, taken by our team member.
+
+### Future Work
+We will work on fine tuning our stitching algorithm, allowing us to achieve panorama that will be able to wrap around.
+
+Next we will look into mapping the panorama to the inside of the sphere which we will then display in a GUI.
+We will also complement our panorama stitcher with image correction on the cave photos when we have obtained them, removing distortion and artifiacts caused by the cave's environment.
+
+
+### References
+* [Base Stitcher, OpenCV Code](https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching)
+* [How to Write a Panorama Stitcher](http://ppwwyyxx.com/2016/How-to-Write-a-Panorama-Stitcher/)
