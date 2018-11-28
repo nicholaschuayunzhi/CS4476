@@ -42,6 +42,27 @@
       "title": "Midterm Update",
       "footer": "footer.md",
       "src": "midterm.md"
+    },
+    {
+      "headings": {
+        "final-update-28112018": "Final Update 28/11/2018",
+        "photography": "Photography",
+        "experiment-4": "Experiment 4",
+        "pre-processing-images": "Pre-processing Images",
+        "image-adjustment": "Image Adjustment",
+        "lowes-ratio": "Lowe's Ratio",
+        "blending-in-poor-lighting-conditions": "Blending in Poor Lighting Conditions",
+        "experiment-3": "Experiment 3",
+        "drift": "Drift",
+        "gui-display": "GUI Display",
+        "conclusion": "Conclusion",
+        "current-pipeline": "Current Pipeline",
+        "deviations-from-proposal": "Deviations from proposal",
+        "references": "References"
+      },
+      "title": "Final Update",
+      "footer": "footer.md",
+      "src": "final.md"
     }
   ]
 }
