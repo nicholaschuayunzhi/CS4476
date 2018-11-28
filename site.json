@@ -23,6 +23,10 @@
       "title": "Midterm Update"
     },
     {
+      "src": "final.md",
+      "title": "Final Update"
+    },
+    {
       "glob": "**/index.md"
     }
   ],

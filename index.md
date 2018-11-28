@@ -22,7 +22,8 @@ Our project will be to construct an algorithm that can remove these potential en
 
 * Go to [Proposal]({{baseUrl}}/proposal.html)
 * Go to [Midterm Update]({{baseUrl}}/midterm.html)
-
+* Go to [Final Update]({{baseUrl}}/final.html)
+* Go to [GUI]({{baseUrl}}/cave_panorama.html)
 ---
 
 ## Members
